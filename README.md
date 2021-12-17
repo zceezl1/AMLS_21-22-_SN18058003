@@ -8,3 +8,5 @@ so if algorithm with 'HOG feature binary classified with KNN' is required, go to
 'KNN_b' and 'KNN_m' are algorithms without HOG feature, which are KNN binary classification and KNN multiclass classification respectively.
 
 all files can be run independently
+
+dataset folder should be placed at the root of the project
