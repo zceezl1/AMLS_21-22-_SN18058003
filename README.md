@@ -10,3 +10,11 @@ so if algorithm with 'HOG feature binary classified with KNN' is required, go to
 all files can be run independently
 
 dataset folder should be placed at the root of the project
+
+
+packages required:
+  numpy
+  skimage
+  sklearn
+  pandas
+  matplotlib
