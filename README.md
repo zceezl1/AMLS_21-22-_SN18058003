@@ -13,8 +13,8 @@ dataset folder should be placed at the root of the project
 
 
 packages required:
-  numpy
-  skimage
-  sklearn
-  pandas
-  matplotlib
+numpy
+skimage
+sklearn
+pandas
+matplotlib
